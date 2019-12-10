@@ -1,5 +1,9 @@
 package dpexercise6;
 
+/**
+ * v(n)=1+v(n-V(v(n-1)))
+ * v(1)=1
+ **/
 import java.util.HashMap;
 
 public class DPExercise6 {
